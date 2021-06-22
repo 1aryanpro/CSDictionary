@@ -1,0 +1,99 @@
+Develop high quality cloud-native web applications using Javascript/Typescript in React.
+Break down complex requirements into independent coding tasks and strategies.
+Create unit and integration tests to fully test and regress software Participate in design and code reviews.
+Work with other teams (i.e. Product, PM, etc.) to ensure delivered code meets specifications based on functional/technical specifications.
+Participate in Agile routines and ceremonies; daily standup, sprint planning, sprint demos/retrospectives.
+
+Write clean, modern, scalable, and maintainable code for our web application.
+Mentor junior engineers.
+Participate in code reviews.
+Contribute to architecture/design discussions.
+Help lead and scale our engineering organization.
+
+Collaboratively develop, design, and deploy interactive, dynamic UX solutions.
+Leverage your own experience and expertise to guide the shape of the frontend.
+Work alongside machine learning engineers to optimize visualizations and product experience.
+Define, develop and maintain the role of the frontend within the product technology stack.
+
+Identifying user behaviors through contextual research, interviews, focus groups, and facilitation.
+Creating and executing usability tests.
+Creating and caring for usable content through content audits, reviews, and governance.
+Establishing the structure of a website or application by designing content layouts and navigation.
+Designing user flows and human-computer interactions.
+Developing and maintaining design wireframes, mockups, style guides, and specifications.
+Determining use cases and user interaction to design solutions to support business objectives.
+Carrying wireframes to delivery of final high fidelity UI mockups.
+Creating micro-interactions and animations.
+Designing and recommending visual styles and standards.
+
+Contribute to new and existing projects by developing and maintaining and reliable set of edge applications.
+Collaborate with other teams to build shared microservices that can serve many applications and scale independently.
+Enable our product team to tap into our valuable data sources and build incredible features for our customers.
+Actively participate in multiple Unanet development projects and work together to build high-quality solutions.
+Provide constructive feedback on pull requests to increase code quality organically.
+
+Designing and implementing the user interfaces of our flight booking website fluege.de for a seamless customer journey.
+Creating, maintaining and extending our various web applications.
+Enhancing our container-based (Docker, Kubernetes) frontend architecture.
+Optimising the user experience for multiple devices using responsive and adaptive technologies.
+Working on projects in collaboration with our Design, Project Management and Backend Teams.
+
+Maintenance and development of our high traffic, customer facing web applications.
+Demonstrate attributes of quality software engineering. Besides functionality, we strive for modularity and reusability.
+Work in close collaboration with our Product Managers, Designers and Back End Developers from wireframes until release to users.
+Take usability and UX seriously and ensure that our interfaces are user-friendly, beautiful and functional.
+
+Design and implement UI with designers and back-end developers.
+Review and design back-end API base on UI design plan.
+Implement web front-end with JavaScript/HTML/CSS.
+Build the libraries necessary for implementation.
+Make UI components with designers.
+
+Work closely with a cross-functional team of developers, QA engineers, and product managers.
+Support and build on our existing front-end framework, as well as architect and transition to a new, more elegant framework solution.
+Develop new user-facing features.
+Build reusable code and libraries for future use.
+Optimize application for maximum speed and scalability.
+Participate in development life cycle activities including design, coding, testing and release for our proprietary platform.
+
+Design and develop complex, high performance, and adaptive web applications.
+Maintain quality code through unit and functional testing.
+Perform root cause analysis of issues in production environments.
+Use your understanding of algorithms and data structures to develop performant solutions.
+Participate in code reviews and ship code on daily basis.
+Collaborate with UX & Product to deliver new products features that adds business value.
+
+Building the most efficient platform for on-demand food delivery, bleeding edge technical stack (ES6, React + Redux, Webpack).
+Excellent knowledge of JavaScript (ES6+).
+Proficient in React, knowledge of a modern React stack to handle side effects, styling, testing.
+Experience with different testing approaches.
+Experience with rendering large and complex datasets.
+Understanding principles of component-driven architecture.
+Experience with end-to-end testing.
+
+Should have strong knowledge of html, css, bootstrap, jquery, photoshop.
+Convert psd to html.
+Basic knowledge of php framework codeigniter.
+Independent handle goddady server.
+Implement responsible web design principles to ensure that our company website renders well across multiple devices.
+Design a framework for creating user apps that grows with the needs of the company.
+Monitor website performance, watch for traffic drops related to site usability problems and rectify the issues.
+Review app and feature coding and plan future website upgrades with the development team.
+Assist in the development of applications and features that will be put on the website and in internal functions as well.
+
+Write clean, modern, scalable, and maintainable code for our web application.
+Mentor junior engineers.
+Participate in code reviews.
+Contribute to architecture/design discussions.
+Help lead and scale our engineering organization.
+
+Work closely in functional scrum units to deliver on the team priorities and OKRs.
+Provide solutions, develop and maintain websites, and other related internal and external activities.
+Responds rapidly to continuous changes and real-time updates required to web sites.
+Build frameworks that will make future development easier.
+Have the passion and hunger to figure out new technologies and continuously enhance your own skills.
+Genuinely interested in improving skills to meet technical quality standards.
+Willing to work with designers, developers, product owners and stakeholders to realize ideas and concepts.
+Have the capacity to figure out how things work, and how to iterate on solutions that are forward-thinking, responsive and scalable.
+Willing to work in agile and scrum environments.
+Turn mockups into reality.

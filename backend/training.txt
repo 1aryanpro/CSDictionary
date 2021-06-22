@@ -1,0 +1,103 @@
+Create web services components that follow industry-standard design patterns, development methodologies, and deployment models.
+Assist in bringing excellent software to the ArcGIS platform.
+Work closely with other developers to design and develop quality APIs that scale to millions of users.
+Write comprehensive technical design specifications and support documentation.
+
+Prioritize what we should build and when by collaborating with stakeholders on product vision and strategy.
+Share ideas and receive feedback on new features through presentations each quarter before a new release.
+Define how those features will work and look through close collaboration with engineers in design sessions, mockups, UX review, and usability testing.
+Manage the release and sprint backlog through planning, backlog grooming, working with dev, and review.
+Write detailed specification for stakeholders to review and provide feedback on.
+Ensure successful build out of features and ensure users to be successful by tracking adoption/usage.
+Drive each sprint through development, review, and testing.
+See features through documentation, prioritization of bugs and enhancements, and usage analysis.
+
+Write high-quality server-side code, create robust high-volume production applications, and develop prototypes quickly.
+Collaborate with other engineers and designers to deliver strong customer-focused experiences.
+Build and maintain backend solutions for client products in an Agile/Waterfall hybrid environment.
+Maintain and deploy products in the cloud.
+Manage cloud hosting environment, including database administration and scaling applications to support load changes.
+Maintain product documentation for backend and development operations.
+
+Design, implement, and iteratively improve backend services in Elixir.
+Migrate our core terminal backend from Erlang to Elixir, and extend it.
+Participate in API design and implementation for both internal APIs and those exposed to our devices and mobile application.
+Help your team to deliver business value by taking decisions related to backend and actively participating in the product discussions.
+Provide comprehensive documentation, good test coverage, and improve code quality.
+Collaborate with other software, QA and sysops engineers to ensure smooth deployment, continuous integration, and support for the software that we deliver.
+Actively participate in code reviews with other software engineers.
+
+Leverage your understanding of QA methodologies and best practices to design, build and execute unit, functional and integration test cases.
+Guide, define, document, present and manage quality assurance and test plans.
+Work closely with software developers and systems engineers to perform all levels of testing, as well as be an integral part of solving complex system level challenges.
+Write, implement, analyze and report test status for projects.
+Keep abreast of current and new technologies and tools related to your field.
+In-depth understanding of industry-leading QA tools, techniques, and platforms.
+Knowledge of unit testing, automation testing, regression testing, end-to-end testing, etc.
+Hands on experience working in a CI/CD environment.
+Working knowledge of building out Automation Frameworks, knowledge of automation best practices.
+Working knowledge of performance testing and bench marking.
+Working knowledge of Agile/Scrum.
+
+Implement new features that help users to successfully share their business, projects and ideas.
+Enrich the Jimdo products by designing, building, and maintaining APIs, services, and systems.
+Debug production issues across services and multiple levels of the stack.
+Improve engineering standards, tooling, and processes.
+
+Contribute to the team's work with high-quality, well-tested and scalable code.
+Ensure code quality and maintainability by evolving architecture and tech stack, code reviews, refactoring, standards and improving build and test systems.
+Coach, guide and mentor teams on architecture and technology choices.
+Collaborate with the other Principal and Senior Engineers on identifying, managing and minimizing tech debt in the platform.
+Consult Product Managers, UX and stakeholders on the impact of product ideas and possible implementations.
+Share architecture knowledge, learnings and best practices with the teams and other architects within eBay.
+
+Develop and maintain backend service for Weverse Shop and Weverse.
+Manage large-scale web traffic for our global services.
+Handle surges or spikes in web traffic.
+Develop and operate new backend services.
+
+Design & implement features robust enough for our exploding scale. We use a wide range of technologies including ElasticSearch, Kinesis, SQS, Lambda, Kubernetes, EMR & other NoSQL databases.
+Drive the implementation of new features - break down complex problems into its bare essentials, translate this complexity into elegant design and create high quality, maintainable code.
+Have some proficiency in developing ACH, credit card, and payment rails for consumer finance applications.
+Mentor other engineers. Provide thoughtful guidance using code, design and architecture reviews.
+Work cross functionally with other teams (product, marketing, analytics).
+Thrive in a fast-paced, dynamic environment. You have a bias towards action and results.
+Leverage a broad skill set and help us implement and learn new technologies quickly.
+Provide and receive design and implementation evaluations and improve per iteration.
+Design & deliver thoughtfully crafted REST APIs to drive the interactions between our client applications and backend services.
+Debug production issues across our services infrastructure and multiple levels of our stack.
+
+To scale our product across the entire US and beyond.
+Solutions to protect sensitive patient data across our product ecosystem.
+Collaborators to understand some of the more complicated challenges we have day-to-day.
+Talented and passionate engineers.
+More people to play ping pong with.
+
+Develop and maintain backend service for Weverse Shop and Weverse.
+Manage large-scale web traffic for our global services.
+Handle surges or spikes in web traffic.
+Develop and operate new backend services.
+
+Write efficient back-end code that handles millions of users.
+Define data models to support the user experience across multiple platforms.
+Design elegant APIs to power our suite of apps.
+Iterate and improve experiences periodically based on feedback.
+Perform data engineering tasks to support our machine learning efforts.
+
+Support members of your team in delivering back-end services with high availability, low latency and scalability.
+Build robust and scalable software.
+Design and create services and system architecture for your projects, and contribute and provide feedback to other team members.
+Help improve our code quality through writing unit tests, automation and performing code reviews.
+Participate in brainstorming sessions and contribute ideas to our technology, algorithms and products.
+Work with the product and design teams to understand end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution.
+Dive into difficult problems and successfully deliver results on schedule.
+
+Experience building enterprise-scale backend REST services using an API-first paradigm.
+Hands-on experience building services with Node.js.
+Intimate knowledge of crafting highly performant database queries using frameworks like Sequelize, knex, or other query builders/ORMs.
+Hands-on experience implementing relational database structures, including tables, indexes, views, etc.
+Experience implementing NoSQL databases like MongoDB preferred.
+A mindset towards building systems for the cloud and DevOps fundamentals.
+Working knowledge of AWS cloud infrastructure, such as EC2 and RDS.
+Hands-on understanding of virtualization and experience with Docker.
+Focus towards building security, performance, and scalability into services from the beginning.
